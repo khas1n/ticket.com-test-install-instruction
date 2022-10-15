@@ -17,8 +17,6 @@
 
 ## Run Locally
 
-Go to the project directory
-
 Extract the ticket.com.zip file 
 
 Go to the project directory
