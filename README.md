@@ -19,8 +19,11 @@
 
 Go to the project directory
 
+Extract the ticket.com.zip file 
+
+Go to the project directory
 ```bash
-  cd tiket.com
+  cd ticket.com/tiket.com
 ```
 
 Install dependencies
@@ -29,7 +32,7 @@ Install dependencies
   yarn
 ```
 
-Start the server
+Start the development server
 
 ```bash
   yarn dev
