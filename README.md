@@ -17,11 +17,11 @@
 
 ## Run Locally
 
-Extract the ticket.com.zip file 
+Extract the `ticket.com.zip` file 
 
 Go to the project directory
 ```bash
-  cd ticket.com/tiket.com
+  cd ticket.com/ticket.com
 ```
 
 Install dependencies
